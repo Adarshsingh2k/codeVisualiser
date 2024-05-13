@@ -1,0 +1,4 @@
+# backend/config.py
+
+SUPABASE_URL = "https://azuegefuidfidgwivkmr.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF6dWVnZWZ1aWRmaWRnd2l2a21yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTU0OTU1MjMsImV4cCI6MjAzMTA3MTUyM30.yq0nA265zY_OOYwXk_RytJTfVTi14dp4t_fPJIPL2pQ"
